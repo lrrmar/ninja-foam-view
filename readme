@@ -1,3 +1,5 @@
+These scripts require the following packages to run: numpy, scipy and pyvista.
+
 To use these scripts, make sure that your NINJAFOAM_XYZ file has a file named `case.foam` present, this file can be empty, it is simply used as a target for the PyVista package.
 
 Then:
