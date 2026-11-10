@@ -1,0 +1,7 @@
+To use these scripts, make sure that your NINJAFOAM_XYZ file has a file named `case.foam` present, this file can be empty, it is simply used as a target for the PyVista package.
+
+Then:
+
+python view_foam_agl.py NINJAFOAM_XYZ/case.foam
+
+and similar for view_foam_amsl.py
